@@ -1,7 +1,7 @@
 module.exports = {
   platform: 'vtex',
   api: {
-    storeId: 'usb2bstoredemo',
+    storeId: 'usb2bstore',
     environment: 'vtexcommercestable',
   },
   experimental: {
